@@ -1,7 +1,7 @@
 You can contact me at [this email](https://raw.githubusercontent.com/jackchatelain/jackchatelain/main/email-antibot.jpg). The address is in an image in an attempt to prevent bots.
 
 PGP key:
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Mailvelope v5.1.2
 Comment: https://mailvelope.com
@@ -59,3 +59,4 @@ BW/cCAvwzJA6zG1NQXsNKhE+HMR8wAE03btaj8o72d4CLQf8sD6CxVeI74EG
 hOM2BgGvL2U=
 =AikP
 -----END PGP PUBLIC KEY BLOCK-----
+```
